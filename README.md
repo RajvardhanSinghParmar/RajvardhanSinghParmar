@@ -10,7 +10,7 @@
 
 - 💞️ I’m looking to collaborate **on a full-time Data Analyst job.**
 
-- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Rajvardhan-Singh-Parmar](https://codebasics.io/portfolio/Rajvardhan-Singh-Parmar)
+- 👨‍💻 All of my projects are available at [Link](https://codebasics.io/portfolio/Rajvardhan-Singh-Parmar)
 
 - 🤝 Connect with me on LinkedIn [https://www.linkedin.com/in/rajvardhan-singh-parmar/](https://www.linkedin.com/in/rajvardhan-singh-parmar/)
 
