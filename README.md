@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Rajvardhan Singh Parmar</h1>
 <h3 align="center">A passionate Data Analyst.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajvardhansinghparmargithub&label=Profile%20views%20&color=0e75b6&style=flat" alt="rajvardhansinghparmar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajvardhansinghparmar&label=Profile%20views&color=0e75b6&style=flat" alt="rajvardhansinghparmar" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajvardhansinghparmar&label=Profile%20views&color=0e75b6&style=flat" alt="deepshikhagithub" /> </p>
 
