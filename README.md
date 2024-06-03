@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [Link](https://codebasics.io/portfolio/Rajvardhan-Singh-Parmar)
 
-- 🤝 Connect with me on LinkedIn [Link](https://www.linkedin.com/in/rajvardhan-singh-parmar/)
+- 🤝 Connect with me on **LinkedIn** [Link](https://www.linkedin.com/in/rajvardhan-singh-parmar/)
 
 - 📄 Know about my experiences [Link](https://drive.google.com/file/d/1rWA2xAVdB8BbzC4JPo0-FF6q26g822xc/view?usp=drive_link)
 
