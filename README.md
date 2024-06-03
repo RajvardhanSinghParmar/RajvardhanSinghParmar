@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Rajvardhan Singh Parmar</h1>
 <h3 align="center">A passionate Data Analyst.</h3>
 
-<img align="right" alt="coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+<img align="right" alt="coding" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajvardhansinghparmar&label=Profile%20views&color=0e75b6&style=flat" alt="rajvardhansinghparmar" /> </p>
 
@@ -11,13 +11,13 @@
 
 - 💞️ I’m looking to collaborate **on a full-time Data Analyst job.**
 
+- 📫 How to reach me **rajvardhansinghparmar13@gmail.com**
+
 - 👨‍💻 All of my projects are available at [Link](https://codebasics.io/portfolio/Rajvardhan-Singh-Parmar)
 
 - 🤝 Connect with me on LinkedIn [Link](https://www.linkedin.com/in/rajvardhan-singh-parmar/)
 
-- 📫 How to reach me **rajvardhansinghparmar13@gmail.com**
-
-- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1RyQuhOrMu0dEm0maHts_nBc9l_HMAWzG/view?usp=drive_link)
+- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1rWA2xAVdB8BbzC4JPo0-FF6q26g822xc/view?usp=drive_link)
 
 - ⚡ Fun fact **Data analysts are often called "Data Detectives" because they uncover insights by investigating patterns and trends in data.**
 
@@ -32,4 +32,3 @@
 <p align="left"> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Microsoft Excel" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> </a> </p>
-
