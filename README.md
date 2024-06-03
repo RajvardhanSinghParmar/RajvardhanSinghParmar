@@ -35,5 +35,3 @@
 
 ![rajvardhansinghparmar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvardhansinghparmar&theme=default&show_icons=true&hide_border=false&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvardhansinghparmar)](https://github.com/anuraghazra/github-readme-stats)
-
