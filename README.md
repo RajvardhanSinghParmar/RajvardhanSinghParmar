@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajvardhansinghparmar&label=Profile%20views%20&color=0d28f8&style=flat" alt="rajvardhansinghparmar" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepshikhagithub&label=Profile%20views&color=0e75b6&style=flat" alt="deepshikhagithub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajvardhansinghparmar&label=Profile%20views&color=0e75b6&style=flat" alt="deepshikhagithub" /> </p>
 
 - 👀 I’m interested in **Data Analytics.**
 
