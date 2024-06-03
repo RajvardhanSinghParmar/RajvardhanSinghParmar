@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Rajvardhan-Singh-Parmar](https://codebasics.io/portfolio/Rajvardhan-Singh-Parmar)
 
-- 🤝 Connect with me on Linkedin [https://www.linkedin.com/in/rajvardhan-singh-parmar/](https://www.linkedin.com/in/rajvardhan-singh-parmar/)
+- 🤝 Connect with me on LinkedIn [https://www.linkedin.com/in/rajvardhan-singh-parmar/](https://www.linkedin.com/in/rajvardhan-singh-parmar/)
 
 - 📫 How to reach me **rajvardhansinghparmar13@gmail.com**
 
