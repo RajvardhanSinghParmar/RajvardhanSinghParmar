@@ -30,7 +30,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="MySQL" alt="mysql" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
-<code><img title="Power BI" alt="power bi" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/power bi/power bi-original.svg" /></code>
+<code><img title="Power_BI" alt="power bi" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/power bi/power_bi-original.svg" /></code>
 <code><img title="Excel" alt="excel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" /></code>
 
 
