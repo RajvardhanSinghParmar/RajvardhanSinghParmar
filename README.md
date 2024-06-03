@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Rajvardhan Singh Parmar</h1>
 <h3 align="center">A passionate Data Analyst.</h3>
-<img align="right" alt="Data Analyst" width="300" src="https://uploads-ssl.webflow.com/F3oKIPEqDGUULpEU0aQ%2F200w.gif%3Fcid%3D6c09b952b7v5odt578kh02xqr2dgh99othe8etv7i1jgwxri%26ep%3Dv1_gifs_search%26rid%3D200w.gif>
+<img align="right" alt="Data Analyst" width="200" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajvardhansinghparmar&label=Profile%20views&color=0e75b6&style=flat" alt="rajvardhansinghparmar" /> </p>
