@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rajvardhansinghparmar13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rWA2xAVdB8BbzC4JPo0-FF6q26g822xc/view?usp=drive_link](https://drive.google.com/file/d/1rWA2xAVdB8BbzC4JPo0-FF6q26g822xc/view?usp=drive_link)
+- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1RyQuhOrMu0dEm0maHts_nBc9l_HMAWzG/view?usp=drive_link)
 
 - ⚡ Fun fact **Data analysts are often called "Data Detectives" because they uncover insights by investigating patterns and trends in data.**
 
