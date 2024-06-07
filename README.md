@@ -16,8 +16,6 @@
 
 - 👨‍💻 All of my **Projects** are available at [Link](https://codebasics.io/portfolio/Rajvardhan-Singh-Parmar)
 
-- 🤝 Connect with me on **LinkedIn** [Link](https://www.linkedin.com/in/rajvardhan-singh-parmar/)
-
 - 📄 Know about my **Experiences** [Link](https://drive.google.com/file/d/1rWA2xAVdB8BbzC4JPo0-FF6q26g822xc/view?usp=drive_link)
 
 - ⚡ Fun fact **Data analysts are often called "Data Detectives" because they uncover insights by investigating patterns and trends in data.**
