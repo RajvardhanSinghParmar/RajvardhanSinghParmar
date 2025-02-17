@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in **Data Analytics.**
 
-- 🌱 I’m skilled in **MySQL, Power BI, Python and Advanced Excel.**
+- 🌱 I’m skilled in **MySQL, Power BI, Tableau, Python and Advanced Excel.**
 
 - 💞️ I’m looking to collaborate **on a full-time Data Analyst job.**
 
